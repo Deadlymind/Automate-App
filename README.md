@@ -10,7 +10,7 @@ This application automates various tasks including searching for company contact
 2. **Automation Tasks:**
    - **Google Sheets Automation:** Updates cells in a Google Sheet with a formula to search for company information.
    - **Email Search Automation:** Searches Google and Facebook for company emails and extracts them.
-   - **Keyword and Department Automation:** Automates web interactions using keywords and department numbers.
+   - **Keyword and Department Automation:** Automates annuCapt using keywords and department numbers.
 
 3. **Thread Management:**
    - Uses separate threads to handle tasks, keeping the UI responsive.
